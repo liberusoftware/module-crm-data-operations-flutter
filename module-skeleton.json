@@ -1,0 +1,15 @@
+{
+  "repository": "module-crm-data-operations-flutter",
+  "capabilityKey": "liberusoftware/module-crm-data-operations",
+  "presentation": "mobile-flutter",
+  "package": "module_crm_data_operations_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/crm/nextjs/data-operations.md",
+  "presentationPlan": "projects/crm/flutter/data-operations.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "crm"
+  ]
+}
